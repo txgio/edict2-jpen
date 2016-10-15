@@ -7,10 +7,10 @@
 	https://github.com/txgio/edict2-jpen
 */
 if (typeof(rcxDicList) == "undefined") rcxDicList = {};
-rcxDicList["edict2-jpen@txg.io"] = {
+rcxDicList["rikaichan-edict2-jpen@txg.io"] = {
 	name: "Japanese-English (EDICT 2)",
 	version: "0.1.0.1",
-	id: "edict2-jpen@txg.io",
+	id: "rikaichan-edict2-jpen@txg.io",
 	hasType: true,
 	isName: false
 

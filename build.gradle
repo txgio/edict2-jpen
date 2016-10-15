@@ -1,0 +1,8 @@
+task xpiExtension(type: Zip) {
+    from 'src'
+    baseName = 'edict2-jpen'
+    destinationDir = new File('build/xpi')
+    extension = 'xpi'
+}
+
+task buildXpi(dependsOn: ['xpiExtension'])

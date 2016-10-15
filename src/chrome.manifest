@@ -1,9 +1,9 @@
-content	edict2-jpen	chrome/content/
+content	rikaichan-edict2-jpen	chrome/content/
 
-overlay	chrome://browser/content/browser.xul			chrome://edict2-jpen/content/overlay.xul
+overlay	chrome://browser/content/browser.xul			chrome://rikaichan-edict2-jpen/content/overlay.xul
 
-overlay	chrome://messenger/content/messenger.xul		chrome://edict2-jpen/content/overlay.xul
-overlay	chrome://messenger/content/messageWindow.xul	chrome://edict2-jpen/content/overlay.xul
-overlay	chrome://messenger/content/messengercompose/messengercompose.xul	chrome://edict2-jpen/content/overlay.xul
+overlay	chrome://messenger/content/messenger.xul		chrome://rikaichan-edict2-jpen/content/overlay.xul
+overlay	chrome://messenger/content/messageWindow.xul	chrome://rikaichan-edict2-jpen/content/overlay.xul
+overlay	chrome://messenger/content/messengercompose/messengercompose.xul	chrome://rikaichan-edict2-jpen/content/overlay.xul
 
-overlay	chrome://navigator/content/navigator.xul		chrome://edict2-jpen/content/overlay.xul
+overlay	chrome://navigator/content/navigator.xul		chrome://rikaichan-edict2-jpen/content/overlay.xul
