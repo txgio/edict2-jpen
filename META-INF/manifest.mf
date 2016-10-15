@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xB2EVOfXENaYfv4QNwlE6w==
+SHA1-Digest: vyiF9as4vGYiQ9AYVCu3WMg23Mo=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IuByTpKMrPWorgNMSrrGsg==
+SHA1-Digest: J0PZjnLskCCZW6JkuB2qzU1aJTY=
+
+Name: icon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8Dld/g2WN3Xox4K9wKYAQ==
+SHA1-Digest: +uwEDdvA8LFacm/kMpf0HX/1ApU=
+
+Name: dict-copyright.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1LTIrwp0YJp9CezpzdVkTg==
+SHA1-Digest: HwVS23nmFhfXo+AqMHIAhyZaI0c=
+
+Name: dict.sqlite
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y+rRk8ux72iz04THjmhLew==
+SHA1-Digest: mUH5I5qKwMQEjoCtWZbVfepJ1RM=
+
+Name: chrome/content/overlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zJznVvIGtwg29Ltfi8kDtg==
+SHA1-Digest: kFiVUqNHJmftsm8yInoywyXuOFw=
+
