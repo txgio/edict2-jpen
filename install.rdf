@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
-		<em:id>rikaichan-jpen@polarcloud.com</em:id>
-		<em:name>Rikaichan Japanese-English Dictionary File</em:name>
-		<em:version>2.01.160101</em:version>
-		<em:description>A dictionary file for Rikaichan.</em:description>
-		<em:creator>Jonathan Zarate</em:creator>
+		<em:id>edict2-jpen@txg.io</em:id>
+		<em:name>Rikaichan Japanese-English Dictionary File (EDICT 2)</em:name>
+		<em:version>0.1.0.1</em:version>
+		<em:description>A dictionary file for Rikaichan using EDICT 2.</em:description>
+		<em:creator>Tomás Godoi</em:creator>
 		<em:contributor>JMdict Dictionary - Copyright James William Breen</em:contributor>
-		<em:homepageURL>http://www.polarcloud.com/rikaichan/</em:homepageURL>
+		<em:homepageURL>https://github.com/txgio/edict2-jpen</em:homepageURL>
 		<em:unpack>true</em:unpack>
 		<em:type>2</em:type>
 

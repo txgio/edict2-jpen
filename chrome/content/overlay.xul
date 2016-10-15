@@ -3,14 +3,14 @@
 <script type="application/javascript">
 <![CDATA[
 /*
-	Copyright 2010-2014 Jonathan Zarate
-	http://www.polarcloud.com/rikaichan
+	Copyright 2016 Tomás Godoi
+	https://github.com/txgio/edict2-jpen
 */
 if (typeof(rcxDicList) == "undefined") rcxDicList = {};
-rcxDicList["rikaichan-jpen@polarcloud.com"] = {
-	name: "Japanese-English",
-	version: "2.01.160101",
-	id: "rikaichan-jpen@polarcloud.com",
+rcxDicList["edict2-jpen@txg.io"] = {
+	name: "Japanese-English (EDICT 2)",
+	version: "0.1.0.1",
+	id: "edict2-jpen@txg.io",
 	hasType: true,
 	isName: false
 
